@@ -8,6 +8,6 @@ A idéia veio do projeto *Semana Omnistack 9.0* da ***Rocketseat***
 
 - [ X ] Conhecendo a Omnistack
 - [ X ] Criando a base da aplicação
-- [  ] Construindo a interface web
+- [ X ] Construindo a interface web
 - [  ] Desenvolvendo a interface web
 - [  ] Funcionalidades avançadas
