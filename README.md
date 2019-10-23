@@ -1,6 +1,6 @@
-# AIRCVC
+# AIRCNC
 
-Este projeto é um aplicativo de para empresas abrirem suas empresas para visitações de devs em sua instituição.
+Este projeto é uma proposta de aplicativo onde empresas podem anunciar os seus espaços para que desenvolvedores possam utilizar as suas intalações durante as suas atividades.
 
 A idéia veio do projeto *Semana Omnistack 9.0* da ***Rocketseat***
 
@@ -14,9 +14,10 @@ A idéia veio do projeto *Semana Omnistack 9.0* da ***Rocketseat***
 
 
 ### Requisitos
-- NodeJS (Vesion Recommended For Most Users )
+- NodeJS (12.13.0 - Vesion Recommended For Most Users)
 - NPM
 - Yarn
+- MongoDB (NoSQL database used to store the API data)
 
 ## Backend
 
